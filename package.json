@@ -14,7 +14,7 @@
     "@types/jest": "^24.0.15",
     "@types/node": "^12.6.4",
     "jest": "^24.8.0",
-    "semantic-release": "15.13.18",
+    "semantic-release": "17.2.3",
     "ts-jest": "^24.0.2",
     "typescript": "^3.5.3"
   },
